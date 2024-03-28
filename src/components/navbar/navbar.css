@@ -1,0 +1,13 @@
+nav {
+  background-color: beige;
+  padding: 10px;
+}
+.navbar__nav-list-container {
+  display: flex;
+  gap: 40px;
+  font-weight: 500;
+}
+.navbar__nav-list-container .active {
+  color: rgb(14, 14, 126);
+  text-decoration: underline;
+}

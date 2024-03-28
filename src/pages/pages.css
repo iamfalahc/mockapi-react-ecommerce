@@ -1,0 +1,25 @@
+.detail-page {
+  display: flex;
+  gap: 50px;
+  padding: 30px 50px;
+}
+.detail-page img {
+  width: 300px;
+}
+.detail-page .right-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+}
+
+.page {
+  padding: 30px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}

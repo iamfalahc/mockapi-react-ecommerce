@@ -1,0 +1,9 @@
+.user-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.user-card img {
+  max-width: 300px;
+}

@@ -1,0 +1,12 @@
+.category-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+  border: 1px solid;
+}
+.category-card img {
+  width: 300px;
+}
